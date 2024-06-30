@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { format, addDays, eachDayOfInterval, getMonth } from 'date-fns';
+import { format, addDays, eachDayOfInterval } from 'date-fns';
 
 interface IRoomCategory {
   id: string;
