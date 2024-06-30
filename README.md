@@ -30,7 +30,7 @@ NOTE: You must have installed nodejs current/update version on your computer bef
 
 Technology used: React and Tailwind Css and TypeScript.
 I set up the project using(React + vite)
-I also design the project fully responsive on all devices.Besides I want share with you my two live projects is given below:
+I also design the project fully responsive on all devices.
 ### React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
