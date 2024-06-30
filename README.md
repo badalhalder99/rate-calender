@@ -1,4 +1,37 @@
-# React + TypeScript + Vite
+if you want to run my project on your local meching just follow the instruction...
+
+1.Clone the repository 
+
+2.Go to root directory and run the below command:
+
+To run tests, run the following command:
+
+Using yarn:
+
+```bash
+  yarn
+```
+```bash
+  yarn dev
+```
+Using npm
+```bash
+  npm i 
+```
+```bash
+  npm run dev
+```
+NOTE: You must have installed nodejs current/update version on your computer before run the project.
+
+
+
+
+#### Project Information:
+
+Technology used: React and Tailwind Css and TypeScript.
+I set up the project using(React + vite)
+I also design the project fully responsive on all devices.Besides I want share with you my two live projects is given below:
+### React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
